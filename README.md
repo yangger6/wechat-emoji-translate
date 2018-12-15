@@ -1,6 +1,6 @@
 # emoji-translate
 
-> A Mpvue project
+> 用MP-VUE快速开发的一个翻译emoji的小程序，代码参考了emoji-translate
 
 ## Build Setup
 
